@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Moez-0/PFE_QR/static/css/main.562f5119.css",
+    "main.js": "/Moez-0/PFE_QR/static/js/main.db9e9bf8.js",
+    "static/js/592.3ce4dab1.chunk.js": "/Moez-0/PFE_QR/static/js/592.3ce4dab1.chunk.js",
+    "index.html": "/Moez-0/PFE_QR/index.html",
+    "main.562f5119.css.map": "/Moez-0/PFE_QR/static/css/main.562f5119.css.map",
+    "main.db9e9bf8.js.map": "/Moez-0/PFE_QR/static/js/main.db9e9bf8.js.map",
+    "592.3ce4dab1.chunk.js.map": "/Moez-0/PFE_QR/static/js/592.3ce4dab1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.562f5119.css",
+    "static/js/main.db9e9bf8.js"
+  ]
+}
